@@ -12,36 +12,36 @@ Criar um site com os conteúdos abordados até aqui. Os temas principais que dev
 Você deve criar um site de uma instituição de atendimento ao público.
 Este site deve conter o seguinte menu de navegação:
 
-Página Principal
-Sobre o local de atendimento
-Horário de Atendimento
+*Página Principal*
+-Sobre o local de atendimento
+-Horário de Atendimento
 
-Contato
-Deve, obrigatoriamente, utilizar todos os assuntos abordados nas aulas.
-Abaixo itens de como cada página deve ser criada e estruturada.
+*Contato*
+-Deve, obrigatoriamente, utilizar todos os assuntos abordados nas aulas.
+-Abaixo itens de como cada página deve ser criada e estruturada.
 
-Estrutura das Páginas
-Todas as páginas terão que seguir um padrão pré-definido.
-Utilize o arquivo template.html para utilizar como base.
+*Estrutura das Páginas*
+-Todas as páginas terão que seguir um padrão pré-definido.
+-Utilize o arquivo template.html para utilizar como base.
 
 
     Estrutura:
 
-Menu
-Deve ficar o Menu Padrão em todas as páginas
-Footer, Padrão em todas as páginas
+*Menu*
+-Deve ficar o Menu Padrão em todas as páginas
+-Footer, Padrão em todas as páginas
 
-Página Principal
-Deve ter uma imagem no header
-Uma breve descrição da empresa.
+*Página Principal*
+-Deve ter uma imagem no header
+-Uma breve descrição da empresa.
 
-Sobre o local de atendimento
-Deve ter uma imagem diferente no Header
-Um texto falando sobre a clínica.
+*Sobre o local de atendimento*
+-Deve ter uma imagem diferente no Header
+-Um texto falando sobre a clínica.
 
-Horário de Atendimento
-Deve ter uma imagem diferente no header.
-Um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
+*Horário de Atendimento*
+-Deve ter uma imagem diferente no header.
+-Um pequeno texto falando sobre os serviços, e uma tabela de preços, onde cada linha é um serviço, com o preço de cada um de acordo com os dias da semana.
 
 *Contato*
 Deve ter uma imagem diferente no Header.
