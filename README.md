@@ -15,10 +15,10 @@ Este site deve conter o seguinte menu de navegação:
 *Página Principal*
 -Sobre o local de atendimento
 -Horário de Atendimento
+-Contato
 
-*Contato*
--Deve, obrigatoriamente, utilizar todos os assuntos abordados nas aulas.
--Abaixo itens de como cada página deve ser criada e estruturada.
+Deve, obrigatoriamente, utilizar todos os assuntos abordados nas aulas.
+Abaixo itens de como cada página deve ser criada e estruturada.
 
 *Estrutura das Páginas*
 -Todas as páginas terão que seguir um padrão pré-definido.
