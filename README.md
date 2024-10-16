@@ -12,7 +12,7 @@ Criar um site com os conteúdos abordados até aqui. Os temas principais que dev
 Você deve criar um site de uma instituição de atendimento ao público.
 Este site deve conter o seguinte menu de navegação:
 
-*Página Principal*
+-Página Principal
 -Sobre o local de atendimento
 -Horário de Atendimento
 -Contato
